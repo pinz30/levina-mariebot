@@ -18,36 +18,32 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hello 👋 {}, nama saya {}! Jika anda punya pertanyaan bagaimana cara menggunakan saya, silahkan tekan /help. 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+saya adalah bot group management yang di ciptakan oleh  [levina](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Semua update dan pemberitahuan mengenai aku akan di sampaikan di channel ini: - @levinachannel.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+Untuk melihat perintah lengkap nya, tekan /help.
 
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! nama saya *{}*.
 
-*Main* available commands:
+*menu* perintah yang tersedia:
  - /start: Start the bot...
- - /help: help....
- - /donate: To find out more about donating!
+ - /help: help...
+ - /donate: Informasi mengenai donasi untuk bot
  - /settings:
-   - in PM: To find out what SETTINGS you have set....
+   - in PM: Untuk mengetahui setelan apa yang telah Anda setel.
    - in a group:
 
 {}
-And the following:
-""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
+berikut ini daftar menu yang tersedia:
+""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nSemua perintah seperti / atau ! dapat digunakan.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
