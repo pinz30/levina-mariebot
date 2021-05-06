@@ -1,4 +1,4 @@
-# MARIE BOT VER-2.0 🇬🇧
+# MARIE BOT VER-2.0
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
@@ -15,7 +15,7 @@ announcements.
 
 Alternatively, [find me on telegram](https://t.me/dlwrml)! (Keep all support questions in the support chat, where more people can help you.)
 
-## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+## tekan tombol deploy dibawah untuk deploy bot ini ke heroku 😁
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-x/levina-mariebot)
 
