@@ -44,8 +44,6 @@ Hello! nama saya *{}*.
    - in PM: Untuk mengetahui setelan apa yang telah Anda setel.
    - in a group:
 
-TECHNO_IMG = "https://telegra.ph/file/c17a119ff42e618e9a3ad.jpg"
-
 {}
 berikut ini daftar menu yang tersedia:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nSemua perintah seperti / atau ! dapat digunakan.\n")
