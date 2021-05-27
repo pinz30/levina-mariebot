@@ -25,8 +25,6 @@ Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambah
 ━━━━━━━━━━━━━━━━━━━━
 Dikelola Oleh [Pin💻](tg://user?id={}) 
 
-࿇Informasi bot di [InfoPin📝](https://t.me/InfoPin)
-
 ࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
 
 ࿇Klik /help 💁‍♂ untuk melihat fitur fitur yang bisa kamu gunakan untuk membantu kinerja grup kamu.
