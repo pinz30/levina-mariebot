@@ -23,7 +23,9 @@ PM_START_TEXT = """
 Hallo👋 {}, nama saya {}!
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
 ━━━━━━━━━━━━━━━━━━━━
-Dikelola Oleh [Pin💻](tg://user?id={})
+Dikelola Oleh [Pin💻](tg://user?id={}) 
+
+࿇Informasi bot di [InfoPin📝](https://t.me/InfoPin)
 
 ࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
 
@@ -39,7 +41,6 @@ Hello! nama saya *{}*.
 *menu* perintah yang tersedia:
  - /start: Start the bot...
  - /help: help...
- - /donate: Informasi mengenai donasi untuk bot
  - /settings:
    - in PM: Untuk mengetahui setelan apa yang telah Anda setel.
    - in a group:
