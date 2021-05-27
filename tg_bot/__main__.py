@@ -20,8 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ┗┓| PIN MANAGER GROUP BOT | ┏┛
 
-Hallo👋 {}, nama saya {}!
-Nama saya adalah Mighty Warrior
+Hallo👋 {}, nama saya {} yang sangat kuat!
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
 ━━━━━━━━━━━━━━━━━━━━
 Dikelola Oleh [Pin💻](https://t.me/skiditod)
