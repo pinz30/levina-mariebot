@@ -18,13 +18,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hello 👋 {}, nama saya {}! Jika anda punya pertanyaan bagaimana cara menggunakan saya, silahkan tekan /help. 
+┗┓| PIN MANAGER GROUP BOT | ┏┛
 
-saya adalah bot group management yang di ciptakan oleh  [levina](tg://user?id={}).
+Hallo👋 {}, nama saya {}!
+Nama saya adalah Mighty Warrior
+Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
+━━━━━━━━━━━━━━━━━━━━
+Dikelola Oleh [Pin💻](https://t.me/skiditod)
 
-Semua update dan pemberitahuan mengenai aku akan di sampaikan di channel ini: - @levinachannel.
+࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
 
-Untuk melihat perintah lengkap nya, tekan /help.
+࿇Klik /help 💁‍♂ untuk melihat fitur fitur yang bisa kamu gunakan untuk membantu kinerja grup kamu.
 
 
 """
