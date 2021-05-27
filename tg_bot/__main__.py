@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-┗┓| PIN MANAGER GROUP BOT | ┏┛
+┗┓𝐏𝐈𝐍 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐆𝐑𝐎𝐔𝐏┏┛
 
 Hallo👋 {}, nama saya {}!
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
