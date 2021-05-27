@@ -23,7 +23,7 @@ PM_START_TEXT = """
 Hallo👋 {}, nama saya {} yang sangat kuat!
 Bot Pro Telegram yang Kuat untuk Mengelola Grup Anda, jangan ragu untuk menambahkan ke grup Anda !!
 ━━━━━━━━━━━━━━━━━━━━
-Dikelola Oleh [Pin💻](https://t.me/skiditod)
+Dikelola Oleh [Pin💻](tg://user?id={})
 
 ࿇Tambahkan saya ke group mu dan jadikan saya admin!! 🧑‍💻
 
