@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/dlwrml)! (Keep all support que
 
 ## tekan tombol deploy dibawah untuk deploy bot ini ke heroku 😁
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-x/levina-mariebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pinz30/levina-mariebot)
 
 ## Starting the bot.
 
